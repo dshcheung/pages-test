@@ -46,9 +46,9 @@ When the game ends, it will display your score and allow you to play again.
       - Replaces question with a `new math problem`
 
 - When the timer hits `zero`:
-  - It will hide the `solution input`
+  - It will hide the `answer screen`
   - It will display:
-    - Game over screen
+    - `Game over screen`
     - Number of points accumulated by the user (5 per correct answer)
 
 You can only change the CSS and JS file. The HTML should remain untouched.
