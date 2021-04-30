@@ -56,7 +56,7 @@ Visit [MDN Interval](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWo
 # Bonus
 ## Before Game Starts
 - Add a slider to increase number generation difficulty: `10` (min) - `100` (max) in increments of 10
-- Add checkboxes to select what operators to quiz: `addition`, `substraction`, `multiplication`, `division`, `powers of 2` and `square root`, and randomly generate problems for all kind of operations
+- Add checkboxes to select what operators to quiz: `addition`, `substraction`, and `multiplication`, and randomly generate problems for all kind of operations
 
 ## In Game
 When the user guesses an answer right
@@ -66,4 +66,4 @@ When the user guesses an answer right
 Calculate a better score based on:
   - Number of questions answered correctly
   - Selected difficulty (more difficulty == more points per answer)
-  - Number of operators enabled (`{add: 1, sub: 2, mult: 5, div: 10, power: 10, root: 20}`)
+  - Number of operators enabled (`{ add: 1, sub: 2, mult: 5 }`)
