@@ -51,8 +51,6 @@ When the game ends, it will display your score and allow you to play again.
     - `Game over screen`
     - Number of points accumulated by the user (5 per correct answer)
 
-You can only change the CSS and JS file. The HTML should remain untouched.
-
 Visit [MDN Interval](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval) to see how to make JS invoke a function every x ms.
 
 # Bonus
