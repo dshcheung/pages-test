@@ -14,7 +14,6 @@
 - [jQuery Cheatsheet](https://oscarotero.com/jquery/)
 
 # Starter code
-- On the upper right, click `Fork` (Select your own account if prompted)
 - Click `Code` and copy the `ssh link`
 - In your terminal navigate to your `unit-1` folder
 - Use the command `$ git clone [ssh link]`
