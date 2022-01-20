@@ -27,7 +27,7 @@ Everytime you get an answer right, you'll receive an additional **10 seconds** t
 
 When the game ends, it will display your score and allow you to play again.
 
-[Original Idea](http://www.mental-math-trainer.com)
+[Original Idea](http://www.mathster.com/10secondsmaths)
 
 # Requirements
 - Display:
