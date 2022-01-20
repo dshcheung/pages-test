@@ -1,4 +1,4 @@
-# Lab - jQuery 10 Seconds Math <!-- omit in toc -->
+# Lab - Lab 10 Seconds Math <!-- omit in toc -->
 - [Additional Resources](#additional-resources)
 - [Starter code](#starter-code)
 - [Introduction](#introduction)
