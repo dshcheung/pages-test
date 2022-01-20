@@ -1,4 +1,4 @@
-# Lab - jQuery Tic Tac Toe <!-- omit in toc -->
+# Lab - jQuery 10 Seconds Math <!-- omit in toc -->
 - [Additional Resources](#additional-resources)
 - [Starter code](#starter-code)
 - [Introduction](#introduction)
@@ -17,7 +17,7 @@
 - Click `Code` and copy the `ssh link`
 - In your terminal navigate to your `unit-1` folder
 - Use the command `$ git clone [ssh link]`
-- Create a new branch `solution`
+- Create a new branch `[your initials]-solution`
 - Use Live Server
 
 # Introduction
